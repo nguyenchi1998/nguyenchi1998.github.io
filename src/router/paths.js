@@ -1,0 +1,18 @@
+
+const HOME_PAGE = 'HOME_PAGE';
+const PRODUCT_DETAIL = 'PRODUCT_DETAIL';
+const SIGN_IN_PAGE = 'SIGN_IN_PAGE';
+const SIGN_UP_PAGE = 'SIGN_UP_PAGE';
+const CHANGE_PASSWORD_PAGE = 'CHANGE_PASSWORD_PAGE';
+const PROFILE_PAGE = 'PROFILE_PAGE';
+const INTERNAL_ERROR_PAGE = 'INTERNAL_ERROR_PAGE';
+
+export const PATHS = {
+  [HOME_PAGE]: '/',
+  [PRODUCT_DETAIL]: '/product',
+  [SIGN_IN_PAGE]: '/sign-in',
+  [SIGN_UP_PAGE]: '/sign-up',
+  [CHANGE_PASSWORD_PAGE]: '/change-password',
+  [PROFILE_PAGE]: '/profile',
+  [INTERNAL_ERROR_PAGE]: '/500',
+};
