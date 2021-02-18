@@ -1,0 +1,2 @@
+(this.webpackJsonpmyapp=this.webpackJsonpmyapp||[]).push([[11],{1366:function(a,t,e){"use strict";e.r(t);var n=e(0),r=e.n(n),o=e(1288),p=e(1272),s=Object(p.a)({root:{height:"100%"},avatar:{width:"100%"}});t.default=function(){var a=s();return r.a.createElement(o.a,{component:"main",className:a.root},"ProfileUserPage")}}}]);
+//# sourceMappingURL=11.1c7558ec.chunk.js.map
